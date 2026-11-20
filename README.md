@@ -164,3 +164,4 @@ No game binaries, save files, or third-party mods are included in this repositor
 *Independent community project. Not affiliated with CAPCOM Co., Ltd., Valve, or Steam. All trademarks belong to their respective owners.*
  
  
+ 
